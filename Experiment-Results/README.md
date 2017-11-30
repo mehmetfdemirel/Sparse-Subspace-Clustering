@@ -25,4 +25,4 @@ Same as ssc_experiment_elephant_I except for the fact that parameters in the alg
 
 In this experiment, I take a single film frame from the movie mentioned above. Then, I create 50 other images
 by changing the locations of the pixels in the original image so that the l1-norm does not change. After that,
-I run these images in the program to see if the it will think these images are actually similar to each other(even though they look very different to the naked human eye). The results were very interesting!
+I run these images in the program to see if the it will think these images are actually similar to each other (even though they look very different to the naked human eye). The results were very interesting!
